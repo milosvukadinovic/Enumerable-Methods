@@ -2,7 +2,7 @@
 
 ### Odin project task:
 
-* https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms
+* https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks#project-2-enumerable-methods
 
 ### Contributors:
 * [@azdrenymeri](https://github.com/azdrenymeri) 
