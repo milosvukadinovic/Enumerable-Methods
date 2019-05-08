@@ -4,8 +4,7 @@ describe Enumerable do
     
     describe "#my_each" do
       it "Runs thro the aray" do
-        arr = [1,2,3]
-        expect(arr.my_each{ |item| p (item + 16) }).to eql([1, 2, 3])
+        expect([1,2,3].my_each{ |item| item }).to eql([1, 2, 3])
       end
     end
   
